@@ -257,3 +257,8 @@ if __name__ == '__main__':
 
     # example function call
     visualize_layer(vgg, LAYER_NAME)
+
+    
+    
+    
+    
