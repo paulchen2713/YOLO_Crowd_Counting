@@ -1,0 +1,26 @@
+<annotation>
+	<folder>203~</folder>
+	<filename>175.jpg</filename>
+	<path>C:\Users\User\Desktop\分配\203~\175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>226</width>
+		<height>226</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>52</ymin>
+			<xmax>61</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
